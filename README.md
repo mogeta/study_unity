@@ -1,3 +1,7 @@
-# study_unity_ugui
+# study_unity
 
-My study repo. https://docs.unity3d.com/ja/current/Manual/UISystem.html
+My study repo.
+
+## document
+
+* https://docs.unity3d.com/ja/current/Manual/index.html
